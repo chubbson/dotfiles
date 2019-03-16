@@ -1,4 +1,14 @@
 [user]
 	email = chubbson@gmail.com
 	name = David Hauri
-	
+[core]
+	exludefiles = $HOME/.global_ignore
+[alias]
+	g = grep
+	unstage = reset HEAD --
+	lg = log --color --graph
+	source = log --source --all --oneline -S
+	find = log --color -p -S
+	ll = log --oneline
+[pager]
+	branch = false	
