@@ -1,3 +1,3 @@
 #!/bin/sh
 
-pacman -Syu --needed $grep '*' software.md | cut -d' ' -f2)
+pacman -Syu --needed $(grep '*' software.md | cut -d' ' -f2)
