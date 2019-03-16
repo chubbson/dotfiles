@@ -44,6 +44,7 @@ IT
 * dina-font
 * tmux 
 * tilix
+* neofetch
 
 Links
 -----
