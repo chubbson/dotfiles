@@ -1,5 +1,6 @@
 scripts
--------
+=======
 
-various scritps.
-Read each file for descrition
+Various scripts.
+
+Read each file for description.
