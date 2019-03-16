@@ -1,1 +1,2 @@
-alias archpull='pacman -Syyu'
+alias edge='sudo pacman -Syyu'
+alias cls=clear
