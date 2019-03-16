@@ -1,5 +1,5 @@
 Git configuration
 ----------------- 
 
-Setup .gitconfig
+setup .gitconfig
 check [user] sigintkey part for signing, haven done yet
