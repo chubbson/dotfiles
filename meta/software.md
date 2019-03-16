@@ -1,7 +1,42 @@
-LISZ of programs
+LIST of programs
 ================
 
+2 autocutsel   -- Clipboard tool
+7 compton      -- COMPOSITOR for X Install this  
+3 dunst        -- INSTALL LW replacement for notification-daemons
+2 feh          -- INSTALL LW powerful IMAGE VIEWER, wallpaper functions
+4 jgmenu       -- MENU APPLICATION HACKABLE, install
+DEL 53 kdeconnect, no need i have gnome
+8 neovim
+DEL 4 obconf install themes
+DEL AUR obkey-git NOT MAINTAINED ANYMORE 
+DEL 8 obmenu no openbox no obmenu
+DEL 2 openbox STACK Windo Manager For the X Window System
+3 plank        -- LW minimal clock
+DEL 58 plasma-browser-integration NO NEED its a KDE package
+1 playerctl
+AUR polybar      -- FOR CREATING STATUS BAR TOP
+2 redshift     -- INSTALL!!, nightmode tool
+DEL 3 unclutter NO NEED, hides mouse when its not used
+2 xbindkeys    -- INSTALL this
+DEL AUR xfce4-volumed-pulse NO NEED IS A DESKTO, i have gnome installed
+* xorg-setxkbmap
+* xorg-xmodmap
+* xorg-xrdb
+2 xorg-xset    -- INSTALL THIS
+2 xorg-xsetroot -- INSTALL THIS, a root window parameter setting 
+utilitx.. 
+DEL la-capitaine-icon-theme NO NEED Custom APP icons
+DEL capitaine-cursors   NO NEED Custom cursors
+DEL 6 exo  EXTETION OF XFCE DESDKOTP ENV, already have gnome dont NEED 
+IT
+AUR siji-git  GLYPH FONT for icons
+2 archlinux-xdg-menu  --???? no info
+2 alsa-utils NO NEED I THINK
+AUR xrq-git INSTALL TAHT, querying X Resources Database 
 * dina-font
+
+
 
 Links
 -----
