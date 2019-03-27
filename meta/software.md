@@ -1,7 +1,7 @@
 LIST of programs
 ================
 
-just entries with beginning * will be installed
+just entries with beginning bulletpoint will be installed
 
 * autocutsel   -- 2 Clipboard tool
 * compton      -- 7 COMPOSITOR for X Install this  
@@ -45,6 +45,7 @@ IT
 * tmux 
 * tilix
 * neofetch
+* python-pywal
 
 Links
 -----
